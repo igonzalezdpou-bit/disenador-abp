@@ -1,0 +1,13 @@
+DISEÑADOR DE PROYECTOS ABP · versión instalable
+
+Publicar gratis en Netlify
+1. Descomprime este archivo: tendrás la carpeta "abp-app".
+2. Entra en https://app.netlify.com/drop (con tu cuenta).
+3. Arrastra la carpeta "abp-app" entera a la página.
+4. Netlify te da una dirección (puedes cambiar el nombre en Site settings).
+
+Publicar en GitHub Pages
+Sube todos los archivos de la carpeta a la raíz del repositorio y activa Pages.
+
+Instalar en el móvil: abre la dirección y elige "Añadir a pantalla de inicio".
+No subas este archivo LEEME.txt si no quieres; la app no lo necesita.
